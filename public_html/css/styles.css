@@ -1,0 +1,19 @@
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+.dropdown-menu {
+    margin-top: 0px;
+}
+
+h1 a{ display:inline-block; 
+      background:url('../img/agnel310.png') no-repeat;
+      background-size: contain;
+      color: black;
+      height:70px;
+      padding:20px 0 0 90px;
+}
+
+h1 a:hover{
+    text-decoration: none;
+    color:black;
+}
